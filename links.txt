@@ -1,0 +1,8 @@
+Protótipo no Figma:
+https://www.figma.com/proto/fiSxmVWr9ydTeHFGfacAWz/PR?node-id=0-1&t=3yzAtFIrotqNxVZA-1
+
+Design no Figma:
+https://www.figma.com/design/fiSxmVWr9ydTeHFGfacAWz/PR?node-id=0-1&m=dev&t=3yzAtFIrotqNxVZA-1
+
+Quadro no Trello:
+https://trello.com/b/SGLQO582/pr-agenda-pro
